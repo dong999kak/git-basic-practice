@@ -1,0 +1,2 @@
+Ghi chú thực hành Git.
+Commit thứ ba: cập nhật CSS và ghi chú.
